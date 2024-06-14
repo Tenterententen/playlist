@@ -1,0 +1,6 @@
+#EXTM3U 
+
+###############################################################################
+
+#EXTINF:-1  tvg-name="bluehustler" tvg-id="bluehustler" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/bluehustler.png" group-title="TRIAL",BLUE HUSTLER
+https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
