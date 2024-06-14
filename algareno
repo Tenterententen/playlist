@@ -485,7 +485,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="foodchannel" tvg-id="foodchannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/foodchannel.png" group-title="LIFESTYLE",DENS FOOD CHANNEL (DENS)
-https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
