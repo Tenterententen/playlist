@@ -644,12 +644,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbb
 #EXTINF:-1  tvg-name="knowledgeplus" tvg-id="knowledgeplus" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/knowledgeplus.png" group-title="KNOWLEDGES",KNOWLEDGES+ (TRANSVISION)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1  tvg-name="hgtv" tvg-id="hgtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hgtv.png" group-title="KNOWLEDGES",HGTV (LINKNET)
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="nasatv" tvg-id="nasatv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nasatv.png" group-title="KNOWLEDGES",NASA PUBLIC TV
@@ -696,21 +690,6 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="insight" tvg-id="insight" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/insight.png" group-title="KNOWLEDGES",INSIGHT TV
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="inwonder" tvg-id="inwonder" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/inwonder.png" group-title="KNOWLEDGES",INWONDER
-https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="inwild" tvg-id="inwild" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/inwild.png" group-title="KNOWLEDGES",INWILD
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="introuble" tvg-id="introuble" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/introuble.png" group-title="KNOWLEDGES",INTROUBLE
-https://introuble-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1122,12 +1101,6 @@ https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1  tvg-name="kix" tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kix.png" group-title="DRAMA",KIX (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1  tvg-name="citradrama" tvg-id="citradrama" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradrama.png" group-title="DRAMA",CITRA DRAMA (LINKNET)
-https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="k+" tvg-id="k+" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kplus.png" group-title="DRAMA",K+
@@ -1362,21 +1335,16 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 #EXTINF:-1  tvg-name="molahitstv" tvg-id="molahitstv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/molahitstv.png" group-title="MUSICS",MOLAHITS TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
 #EXTINF:-1  tvg-name="densshowbiz" tvg-id="densshowbiz" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/densshowbiz.png" group-title="MUSICS",DENS SHOWBIZ (DENS)
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="theindonesiachannel" tvg-id="theindonesiachannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tic.png" group-title="MUSICS",THE INDONESIA CHANNEL (MAXTREAM)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7st5POk7YRmHk/FJ6H8CQ", "kid":"AM/zNYmmRo65jk23qtRsoA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1  tvg-name="citradangdut" tvg-id="citradangdut" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradangdut.png" group-title="MUSICS",CITRA DANGDUT (LINKNET)
-https://atemeshield1-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
 ###############################################################################
 
