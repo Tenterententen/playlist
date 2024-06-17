@@ -188,6 +188,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a13
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-name="jaktv" tvg-id="jaktv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/jaktv.png" group-title="NATIONWIDE",JAKTV (MNCNOW)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="firstmedia" tvg-id="firstmedia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/firstmedia.png" group-title="NATIONWIDE",FIRSTMEDIA (LINKNET)
 http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.m3u8
 
@@ -644,8 +650,8 @@ https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2 
 #EXTINF:-1  tvg-name="knowledge" tvg-id="knowledge" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/knowledge.png" group-title="KNOWLEDGES",DENS KNOWLEDGE (DENS)
-https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
