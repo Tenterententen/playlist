@@ -261,7 +261,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2 
 #EXTINF:-1  tvg-name="elshintatv" tvg-id="elshintatv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/elshintatv.png" group-title="NATIONWIDE",ELSHINTA (DENS)
-http://op-catchupswift-1.dens.tv/tvod/tvod8p.m3u8
 https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
 ###############################################################################
@@ -645,8 +644,8 @@ https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2 
 #EXTINF:-1  tvg-name="knowledge" tvg-id="knowledge" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/knowledge.png" group-title="KNOWLEDGES",DENS KNOWLEDGE (DENS)
-https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
