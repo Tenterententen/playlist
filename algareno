@@ -640,6 +640,7 @@ https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2 
 #EXTINF:-1  tvg-name="knowledge" tvg-id="knowledge" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/knowledge.png" group-title="KNOWLEDGES",DENS KNOWLEDGE (DENS)
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
