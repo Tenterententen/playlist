@@ -260,10 +260,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2 
-#EXTINF:-1  tvg-name="elshinta" tvg-id="elshinta" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/elshinta.png" group-title="NATIONWIDE",ELSHINTA (DENS)
-http://op-group2-swiftservehd-1.dens.tv/s/s12/index.m3u8
-http:\/\/op-catchupswift-1.dens.tv\/tvod\/tvod8p.m3u8
-https:\/\/op-group2-swiftservesd-1.dens.tv\/s\/s12\/index.m3u8
+#EXTINF:-1  tvg-name="elshintatv" tvg-id="elshintatv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/elshintatv.png" group-title="NATIONWIDE",ELSHINTA (DENS)
+https://op-group2-swiftservehd-1.dens.tv/s/s12/index.m3u8
 
 ###############################################################################
 
