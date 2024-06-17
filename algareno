@@ -259,6 +259,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c
 #EXTINF:-1  tvg-name="vtv" tvg-id="vtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/vtv.png" group-title="NATIONWIDE",VTV
 https://flv.intechmedia.net/live/ch107.m3u8
 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2 
+#EXTINF:-1  tvg-name="elshinta" tvg-id="elshinta" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/elshinta.png" group-title="NATIONWIDE",ELSHINTA (DENS)
+http://op-group1-swiftservehd-1.dens.tv/s/s12/index.m3u8
+
 ###############################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1357,8 +1361,6 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="peopleareawesome" tvg-id="peopleareawesome" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/peopleareawesome.png" group-title="SPORTS",PEOPLE ARE AWESOME 
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
 #EXTINF:-1  tvg-name="densplay" tvg-id="densplay" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/densplay.png" group-title="SPORTS",DENS PLAY (DENS)
 https://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8
