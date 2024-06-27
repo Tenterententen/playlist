@@ -1,17 +1,8 @@
 #EXTM3U 
-#EXT-X-VERSION:3
-url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml" 
-x-tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" 
+url-tvg="" 
+x-tvg-url="" 
 
 ###############################################################################
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/net.png" group-title="NATIONWIDE",NET. (MAXSTREAM)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(51f16000-8c78-4e72-8052-7dec807e81c2)/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
