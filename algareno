@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXT-X-VERSION:3
-url-tvg=" " 
+url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml" 
 x-tvg-url=" " 
 
 ###############################################################################
@@ -10,7 +10,7 @@ x-tvg-url=" "
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/indosiar.png" group-title="INDIHOME",INDOSIAR
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/indosiar.png" group-title="INDIHOME",INDOSIAR
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -18,7 +18,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="mentaritv" tvg-id=" mentaritv " tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/ mentaritv.png" group-title=“INDIHOME”, MENTARI TV
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="mentaritv" tvg-id=" mentaritv " tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/ mentaritv.png" group-title="INDIHOME", MENTARI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -26,7 +26,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvri.png" group-title=“INDIHOME”,TVRI
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvri.png" group-title="INDIHOME",TVRI
 https://streaming.indihometv.com/atm/DASH/tvri/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -34,7 +34,7 @@ https://streaming.indihometv.com/atm/DASH/tvri/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="hitsnow" tvg-id="hitsnow" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hitsnow.png" group-title=“INDIHOME”,HITS NOW
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="hitsnow" tvg-id="hitsnow" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hitsnow.png" group-title="INDIHOME",HITS NOW
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -42,7 +42,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="maxstream" tvg-id="maxstream" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/maxstream.png" group-title=“INDIHOME”,MAXSTREAM
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="maxstream" tvg-id="maxstream" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/maxstream.png" group-title="INDIHOME",MAXSTREAM
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -50,7 +50,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="indikids" tvg-id="indikids" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/indikids.png" group-title=“INDIHOME”,INDIKIDS
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="indikids" tvg-id="indikids" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/indikids.png" group-title="INDIHOME",INDIKIDS
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -58,7 +58,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/antv.png" group-title=“INDIHOME”,ANTV
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/antv.png" group-title="INDIHOME",ANTV
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -66,7 +66,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="qurantv" tvg-id="qurantv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/qurantv.png" group-title=“INDIHOME”, QURAN TV
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="qurantv" tvg-id="qurantv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/qurantv.png" group-title="INDIHOME", QURAN TV
 https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -74,7 +74,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="tvmu" tvg-id="tvmu" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvmu.png" group-title="INDIHOME",TVMU
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="tvmu" tvg-id="tvmu" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvmu.png" group-title="INDIHOME",TVMU
 https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -82,7 +82,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="euronews" tvg-id= “euronews” tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/euronews.png" group-title=“INDIHOME”,EURONEWS
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="euronews" tvg-id= "euronews" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/euronews.png" group-title="INDIHOME",EURONEWS
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -90,7 +90,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="useesports" tvg-id="useesports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/ useesports.png" group-title=“INDIHOME”,USEESPORTS
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="useesports" tvg-id="useesports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/ useesports.png" group-title="INDIHOME",USEESPORTS
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -98,7 +98,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="useesports2" tvg-id="useesport2" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/ useesports.png" group-title=“INDIHOME”,USEESPORTS 2
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="useesports2" tvg-id="useesport2" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/ useesports.png" group-title="INDIHOME",USEESPORTS 2
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -106,7 +106,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="beinsports" tvg-id="beinsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title=“INDIHOME”,BEINSPORTS 1
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="beinsports" tvg-id="beinsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="INDIHOME",BEINSPORTS 1
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -114,7 +114,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="beinsports" tvg-id="beinsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title=“INDIHOME”,BEINSPORTS 2
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="beinsports" tvg-id="beinsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="INDIHOME",BEINSPORTS 2
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -122,7 +122,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="nba" tvg-id="nba" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nba.png" group-title=“INDIHOME”,NBA TV
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="nba" tvg-id="nba" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nba.png" group-title="INDIHOME",NBA TV
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -130,7 +130,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="fightsports" tvg-id="fightsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fightsports.png" group-title=“INDIHOME”,FIGHT SPORTS
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="fightsports" tvg-id="fightsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fightsports.png" group-title="INDIHOME",FIGHT SPORTS
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -138,7 +138,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="tvnmovies" tvg-id="tvnmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvnmovies.png" group-title=“INDIHOME”,TVN MOVIES
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="tvnmovies" tvg-id="tvnmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvnmovies.png" group-title="INDIHOME",TVN MOVIES
 https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -146,7 +146,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="imc" tvg-id="imc" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/imc.png" group-title=“INDIHOME”,IMC
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="imc" tvg-id="imc" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/imc.png" group-title="INDIHOME",IMC
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -154,7 +154,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="galaxypremium" tvg-id="galaxypremium" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxypremium.png" group-title=“INDIHOME”,GALAXY PREMIUM
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="galaxypremium" tvg-id="galaxypremium" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxypremium.png" group-title="INDIHOME",GALAXY PREMIUM
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -162,7 +162,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="galaxy" tvg-id="galaxy" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxy.png" group-title=“INDIHOME”,GALAXY
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="galaxy" tvg-id="galaxy" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxy.png" group-title="INDIHOME",GALAXY
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -170,7 +170,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="flik" tvg-id="flik" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/flik.png" group-title=“INDIHOME”,FLIK
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="flik" tvg-id="flik" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/flik.png" group-title="INDIHOME",FLIK
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -178,7 +178,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="bioskopindonesia" tvg-id="bioskopindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/bioskopindonesia.png" group-title=“INDIHOME”,BIOSKOP INDONESIA
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="bioskopindonesia" tvg-id="bioskopindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/bioskopindonesia.png" group-title="INDIHOME",BIOSKOP INDONESIA
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -186,7 +186,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="celestialmovies" tvg-id="celestialmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/celestialmovies.png" group-title=“INDIHOME”,CELESTIAL MOVIES
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="celestialmovies" tvg-id="celestialmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/celestialmovies.png" group-title="INDIHOME",CELESTIAL MOVIES
 https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -194,7 +194,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="paramount" tvg-id="paramount" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/paramount.png" group-title=“INDIHOME”,PARAMOUNT
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="paramount" tvg-id="paramount" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/paramount.png" group-title="INDIHOME",PARAMOUNT
 https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -202,7 +202,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mycinema.png" group-title=“INDIHOME”,MY CINEMA
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mycinema.png" group-title="INDIHOME",MY CINEMA
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -210,7 +210,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="cinemaworld" tvg-id="cinemaworld" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemaworld.png" group-title=“INDIHOME”,CINEMA WORLD
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="cinemaworld" tvg-id="cinemaworld" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemaworld.png" group-title="INDIHOME",CINEMA WORLD
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -218,7 +218,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="cnbcindonesia" tvg-id="cnbcindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cnbc.png" group-title=“INDIHOME”,CNBC INDONESIA
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="cnbcindonesia" tvg-id="cnbcindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cnbc.png" group-title="INDIHOME",CNBC INDONESIA
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -226,7 +226,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="cnnindonesia" tvg-id="cnnindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cnn.png" group-title=“INDIHOME”,CNN INDONESIA
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="cnnindonesia" tvg-id="cnnindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cnn.png" group-title="INDIHOME",CNN INDONESIA
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -234,7 +234,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="tvn" tvg-id="tvn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvn.png" group-title=“INDIHOME”,TVN
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="tvn" tvg-id="tvn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvn.png" group-title="INDIHOME",TVN
 https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -242,7 +242,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="history" tvg-id="history" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/history.png" group-title=“INDIHOME”,HISTORY
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="history" tvg-id="history" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/history.png" group-title="INDIHOME",HISTORY
 https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -250,7 +250,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="dunialain" tvg-id="dunialain" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/dunialain.png" group-title=“INDIHOME”,DUNIA LAIN
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="dunialain" tvg-id="dunialain" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/dunialain.png" group-title="INDIHOME",DUNIA LAIN
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -258,7 +258,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="citradrama" tvg-id="citradrama" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradrama.png" group-title=“INDIHOME”,CITRA DRAMA
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="citradrama" tvg-id="citradrama" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradrama.png" group-title="INDIHOME",CITRA DRAMA
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -266,7 +266,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="one" tvg-id="one" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/one.png" group-title=“INDIHOME”,ONE
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="one" tvg-id="one" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/one.png" group-title="INDIHOME",ONE
 https://cdn08jtedge.indihometv.com/dassdvr/133/sone/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -274,7 +274,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sone/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="kix" tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kix.png" group-title=“INDIHOME”,KIX
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="kix" tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kix.png" group-title="INDIHOME",KIX
 https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -282,7 +282,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="kungfu" tvg-id="kungfu" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kungfu.png" group-title=“INDIHOME”,KUNGFU TV
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="kungfu" tvg-id="kungfu" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kungfu.png" group-title="INDIHOME",KUNGFU TV
 https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -290,7 +290,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="gem" tvg-id="gem" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/gem.png" group-title=“INDIHOME”,GEM
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="gem" tvg-id="gem" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/gem.png" group-title="INDIHOME",GEM
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -298,7 +298,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="cartoonnetwork" tvg-id="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoonnetwork.png" group-title=“INDIHOME”,CARTOON NETWORK
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="cartoonnetwork" tvg-id="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoonnetwork.png" group-title="INDIHOME",CARTOON NETWORK
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -306,7 +306,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="horee" tvg-id="horee" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/horee.png" group-title=“INDIHOME”,HOREE TV
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="horee" tvg-id="horee" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/horee.png" group-title="INDIHOME",HOREE TV
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -314,7 +314,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="discovery" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discovery.png" group-title=“INDIHOME”,DISCOVERY
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="discovery" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discovery.png" group-title="INDIHOME",DISCOVERY
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -322,7 +322,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="techstorm" tvg-id=”techstorm" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/techstorm.png" group-title=“INDIHOME”,TECHSTORM
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="techstorm" tvg-id="techstorm" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/techstorm.png" group-title="INDIHOME",TECHSTORM
 https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -330,7 +330,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="crimeinvestigation" tvg-id="crimeinvestigation" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/crimeinvestigation.png" group-title=“INDIHOME”,CRIME INVESTIGATION
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="crimeinvestigation" tvg-id="crimeinvestigation" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/crimeinvestigation.png" group-title="INDIHOME",CRIME INVESTIGATION
 https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -338,7 +338,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="pandatv" tvg-id="pandatv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/panda.png" group-title=“INDIHOME”,PANDA TV
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="pandatv" tvg-id="pandatv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/panda.png" group-title="INDIHOME",PANDA TV
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -346,7 +346,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="asianfoodchannel" tvg-id="asianfoodchannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/afc.png" group-title=“INDIHOME”,ASIAN FOOD CHANNEL
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="asianfoodchannel" tvg-id="asianfoodchannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/afc.png" group-title="INDIHOME",ASIAN FOOD CHANNEL
 https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -354,7 +354,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="hgtv" tvg-id="hgtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hgtv.png" group-title=“INDIHOME”,HGTV
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="hgtv" tvg-id="hgtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hgtv.png" group-title="INDIHOME",HGTV
 https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -362,7 +362,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="eatngo" tvg-id="eatngo" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/eatngo.png" group-title=“INDIHOME”,EAT&GO
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="eatngo" tvg-id="eatngo" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/eatngo.png" group-title="INDIHOME",EAT&GO
 https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -370,7 +370,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="citradangdut" tvg-id="citradangdut" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradangdut.png" group-title=“INDIHOME”,CITRA DANGDUT
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="citradangdut" tvg-id="citradangdut" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradangdut.png" group-title="INDIHOME",CITRA DANGDUT
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -378,7 +378,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="insert" tvg-id="insert" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/insert.png" group-title=“INDIHOME”,!NSERT
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="insert" tvg-id="insert" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/insert.png" group-title="INDIHOME",!NSERT
 https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -386,7 +386,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="nickjr" tvg-id="nickjr" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nickjr.png" group-title=“INDIHOME”,NICK JR
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="nickjr" tvg-id="nickjr" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nickjr.png" group-title="INDIHOME",NICK JR
 https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -394,7 +394,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/net.png" group-title=“INDIHOME”,NET.
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/net.png" group-title="INDIHOME",NET.
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -402,7 +402,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-url=“https://www.bevy.be/bevyfiles/indonesia.xml” tvg-name="daaitv" tvg-id="daaitv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/daaitv.png" group-title=“INDIHOME”,DAAI TV
+#EXTINF:-1  tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-name="daaitv" tvg-id="daaitv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/daaitv.png" group-title="INDIHOME",DAAI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 ###############################################################################
