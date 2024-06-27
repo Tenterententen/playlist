@@ -1,6 +1,5 @@
 #EXTM3U 
 #EXT-X-VERSION:3
-billed-msg="DAFTAR CHANNEL INI MERUPAKAN HASIL COMOTY DARI BERBAGAI SUMBER DAN TIDAK ADA JAMINAN CHANNEL TERSEBUT ON AIR SELAMANYA, APABILA ADA CHANNEL YANG ERROR JANGAN DIKOMPLAIN, BERSABARLAH AGAR IMAN ANDA TETAP KUAT"
 url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml" 
 x-tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" 
 
@@ -10,8 +9,7 @@ x-tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#KODIPROP:inputstream.adaptive.license_key=8a37645a92b03dcaab0e4e6b21a440ef:6ee84789d2b341c875eddae90e9fda04 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/net.png" group-title="NATIONWIDE",NET. (MAXSTREAM)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(51f16000-8c78-4e72-8052-7dec807e81c2)/manifest.mpd
 
@@ -2190,3 +2188,4 @@ https://webudit.cdnhks.lol/lb/premium114/index.m3u8
 https://webudit.cdnhks.lol/lb/premium115/index.m3u8
 
 
+#EXTM3U billed-msg="DAFTAR CHANNEL INI MERUPAKAN HASIL COMOTY DARI BERBAGAI SUMBER DAN TIDAK ADA JAMINAN CHANNEL TERSEBUT ON AIR SELAMANYA, APABILA ADA CHANNEL YANG ERROR JANGAN DIKOMPLAIN, BERSABARLAH AGAR IMAN ANDA TETAP KUAT"
