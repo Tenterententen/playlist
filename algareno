@@ -342,7 +342,7 @@ https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8?c
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-name="discovery" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discovery.png" group-title="INDIHOME",DISCOVERY ASIA
+#EXTINF:-1  tvg-name="discoveryasia" tvg-id="discoveryasia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discoveryasia.png" group-title="INDIHOME",DISCOVERY ASIA
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -398,7 +398,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="citradangdut" tvg-id="citradangdut" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradangdut.png" group-title="INDIHOME",CITRA DANGDUT
 https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
-https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -413,7 +412,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="nickjr" tvg-id="nickjr" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nickjr.png" group-title="INDIHOME",NICK JR
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
-https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -454,13 +452,13 @@ https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rtv.png" group-title="INDIHOME",IDTV
+#EXTINF:-1  tvg-name="idtv" tvg-id="idtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/idtv.png" group-title="INDIHOME",IDTV
 https://cdn09jtedge.indihometv.com/joss/134/idtv/index.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rtv.png" group-title="INDIHOME",CHINESE DRAMA
+#EXTINF:-1  tvg-name="chinesedrama" tvg-id="chinesedrama" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/chinesedrama.png" group-title="INDIHOME",CHINESE DRAMA
 https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -472,7 +470,7 @@ https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1  tvg-name="animalplanet" tvg-id="animalplanet" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/animalplanet.png" group-title="INDIHOME",CURIOSITY
+#EXTINF:-1  tvg-name="curiosity" tvg-id="curiosity" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/curiosity.png" group-title="INDIHOME",CURIOSITY STREAM
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
