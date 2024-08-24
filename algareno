@@ -335,9 +335,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.manifest_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.9.6
 #EXTINF:-1  tvg-name="discovery" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discovery.png" group-title="INDIHOME",DISCOVERY
 https://cdn09jtedge.indihometv.com/joss/133/disco/manifest.mpd
@@ -351,7 +350,6 @@ https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="discovery" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discovery.png" group-title="INDIHOME",DISCOVERY ASIA
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8?c
