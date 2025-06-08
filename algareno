@@ -794,9 +794,8 @@ https://e1.siar.us/badartv/live/playlist.m3u8
 #EXTINF:-1  tvg-name="inspira" tvg-id="inspira" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/inspira.png" group-title="RELIGIOUS",INSPIRA
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2j4ZMR46PRR2B5caEByNww", "kid":"BctLvZHjTYWPaSHnGW93lQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1  tvg-name="citramuslim" tvg-id="citramuslim" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citramuslim.png" group-title="RELIGIOUS",CITRA MUSLIM (LINKNET)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 
