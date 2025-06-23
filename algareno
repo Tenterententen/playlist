@@ -262,10 +262,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="one" tvg-id="one" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/one.png" group-title="INDIHOME",ONE
-https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
 https://cdn08jtedge.indihometv.com/dassdvr/133/sone/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
@@ -301,16 +302,20 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="discovery" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discovery.png" group-title="INDIHOME",DISCOVERY
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="discoveryasia" tvg-id="discoveryasia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discoveryasia.png" group-title="INDIHOME",DISCOVERY ASIA
-https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -361,10 +366,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="citradangdut" tvg-id="citradangdut" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradangdut.png" group-title="INDIHOME",CITRA DANGDUT
-https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -375,10 +382,12 @@ https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
 https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="nickjr" tvg-id="nickjr" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nickjr.png" group-title="INDIHOME",NICK JR
-https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -408,61 +417,61 @@ https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-name="moji" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/moji.png" group-title="INDIHOME",MOJI
-https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel720/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rtv.png" group-title="INDIHOME",RTV
-https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="idtv" tvg-id="idtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/idtv.png" group-title="INDIHOME",IDTV
-https://cdn09jtedge.indihometv.com/joss/134/idtv/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="chinesedrama" tvg-id="chinesedrama" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/chinesedrama.png" group-title="INDIHOME",CHINESE DRAMA
-https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="animalplanet" tvg-id="animalplanet" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/animalplanet.png" group-title="INDIHOME",ANIMAL PLANET
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="curiosity" tvg-id="curiosity" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/curiosity.png" group-title="INDIHOME",CURIOSITY STREAM
-https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="lovenature" tvg-id="lovenature" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lovenature.png" group-title="INDIHOME",LOVE NATURE
-https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="lingua" tvg-id="lingua" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lingua.png" group-title="INDIHOME",LINGUA CHANNEL
-https://cdn09jtedge.indihometv.com/joss/133/lingua/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="moonbug" tvg-id="moonbug" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/moonbug.png" group-title="INDIHOME",MOONBUG
-https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="duniaanak" tvg-id="duniaanak" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/duniaanak.png" group-title="INDIHOME",DUNIA ANAK
-https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+https://streaming.indihometv.com/atm/DASH/duniaanak/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1016,7 +1025,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
+#KODIPROP:inputstream.adaptive.license_key=8afcd53a12df4443ba4fba722a1771c8:b431e78b8bd1bcbbab3d06e22ac67afb
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="aljazeeraarab" tvg-id="aljazeeraarab" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/aljazeera.png" group-title="NEWS",ALJAZEERA ARAB (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mpd/AlJzrArab.mpd
@@ -1140,14 +1149,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTINF:-1  tvg-name="firstlifestyle" tvg-id="firstlifestyle" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/firstlifestyle.png" group-title="LIFESTYLE",FIRST LIFESTYLE
+#EXTINF:-1  tvg-name="firstlifestyle" tvg-id="firstlifestyle" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/firstlifestyle.png" group-title="LIFESTYLE",FIRST LIFESTYLE (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTINF:-1  tvg-name="tlc" tvg-id="tlc" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tlc.png" group-title="LIFESTYLE",TLC
+#EXTINF:-1  tvg-name="tlc" tvg-id="tlc" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tlc.png" group-title="LIFESTYLE",TLC (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -1744,7 +1753,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="zeebioskop" tvg-id="zeebioskop" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/zeebioskop.png" group-title="MOVIES",ZEE BIOSKOP (FIRSTMEDIA)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1766,7 +1775,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="sonymax" tvg-id="sonymax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/sonymax.png" group-title="MOVIES",SONY MAX (FIRSTMEDIA)
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
@@ -1949,9 +1958,7 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1  tvg-name="bizkids" tvg-id="bizkids" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/bizkids.png" group-title="KIDS",BIZ KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTINF:-1  tvg-name="vtv" tvg-id="vtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/vtv.png" group-title="KIDS",VTV
 https://why.biz.id/Iptv/oxygen.php?id=vtv
 
@@ -1959,7 +1966,7 @@ https://why.biz.id/Iptv/oxygen.php?id=vtv
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTINF:-1  tvg-name="carttoonito" tvg-id="carttoonito" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/carttoonito.png" group-title="KIDS",CARTOONITO (FIRSTMEDIA)
+#EXTINF:-1  tvg-name="cartoonito" tvg-id="cartoonito" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoonito.png" group-title="KIDS",CARTOONITO (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -2069,7 +2076,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cartoonnetwork" tvg-id="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK (FIRSTMEDIA)
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
