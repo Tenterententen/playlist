@@ -492,7 +492,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rcti.png" group-title="NATIONWIDE",RCTI (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
@@ -502,7 +502,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rcti.png" group-title="NATIONWIDE",RCTI (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6e825832393/manifest.mpd
@@ -510,7 +510,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6e82
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="gtv" tvg-id="gtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/gtv.png" group-title="NATIONWIDE",GTV (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
@@ -520,7 +520,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="gtv" tvg-id="gtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/gtv.png" group-title="NATIONWIDE",GTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
@@ -537,7 +537,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="mnctv" tvg-id="mnctv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mnctv.png" group-title="NATIONWIDE",MNC TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
@@ -559,7 +559,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/sctv.png" group-title="NATIONWIDE",SCTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
@@ -581,7 +581,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/indosiar.png" group-title="NATIONWIDE",INDOSIAR (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
@@ -589,7 +589,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6e77
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/antv.png" group-title="NATIONWIDE",ANTV (MNCNOW)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
@@ -610,7 +610,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/antv.png" group-title="NATIONWIDE",ANTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
@@ -618,7 +618,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="transtv" tvg-id="transtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/transtv.png" group-title="NATIONWIDE",TRANS TV (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
@@ -633,7 +633,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="transtv" tvg-id="transtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/transtv.png" group-title="NATIONWIDE",TRANS TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
@@ -641,7 +641,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="trans7" tvg-id="trans7" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/trans7.png" group-title="NATIONWIDE",TRANS7 (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
@@ -656,7 +656,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="trans7" tvg-id="trans7" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/trans7.png" group-title="NATIONWIDE",TRANS7 (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
@@ -674,7 +674,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="mdtv" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mdtv.png" group-title="NATIONWIDE",MDTV (MNCNOW)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 
@@ -688,7 +688,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="mdtv" tvg-id="mdtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mdtv.png" group-title="NATIONWIDE",MDTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
@@ -696,7 +696,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc76
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rtv.png" group-title="NATIONWIDE",RTV (MNCNOW)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
@@ -710,7 +710,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rtv.png" group-title="NATIONWIDE",RTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
@@ -718,7 +718,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="jaktv" tvg-id="jaktv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/jaktv.png" group-title="NATIONWIDE",JAKTV (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
@@ -749,24 +749,24 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="mncinfotainment" tvg-id="mncinfotainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mncinfotainment.png" group-title="NATIONWIDE",MNC INFOTAINMENT (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="mncentertainment" tvg-id="mncentertainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mncentertainment.png" group-title="NATIONWIDE",MNC ENTERTAINMENT (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="oktv" tvg-id="oktv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/oktv.png" group-title="NATIONWIDE",OKTV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/OKTV/sa_dash/OKTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="visionprime" tvg-id="visionprime" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/visionprime.png" group-title="NATIONWIDE",VISION PRIME (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
@@ -786,7 +786,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-46
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="kilattv" tvg-id="kilattv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kilattv.png" group-title="NATIONWIDE",KILAT TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
@@ -803,7 +803,7 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 ###############################################################################
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1 tvg-name="qurantv" tvg-id="qurantv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/qurantv.png" group-title="RELIGIOUS",QURAN TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/AlQuranAlKareem/sa_dash/AlQuranAlKareem.mpd
 
@@ -816,17 +816,17 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="tawaftv" tvg-id="tawaftv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tawaftv.png" group-title="RELIGIOUS",TAWAF TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/TawafTV/sa_dash/TawafTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="muslimtv" tvg-id="muslimtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/muslimtv.png" group-title="RELIGIOUS",MUSLIM TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="tvmu" tvg-id="tvmu" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvmu.png" group-title="RELIGIOUS",TVMU (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/TVMuhammadiyah/sa_dash/TVMuhammadiyah.mpd
 
@@ -840,7 +840,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="khazanah" tvg-id="khazanah" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/khazanah.png" group-title="RELIGIOUS",KHAZANAH TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
@@ -861,14 +861,14 @@ https://e1.siar.us/badartv/live/playlist.m3u8
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="citramuslim" tvg-id="citramuslim" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citramuslim.png" group-title="RELIGIOUS",CITRA MUSLIM (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 
 ###############################################################################
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="btv" tvg-id="btv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/btv.png" group-title="NEWS",BTV (MNCNOW)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
@@ -878,7 +878,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="btv" tvg-id="btv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/btv.png" group-title="NEWS",BTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
@@ -886,7 +886,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="inews" tvg-id="inews" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/inews.png" group-title="NEWS",INEWS (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
@@ -907,7 +907,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="cnbcindonesia" tvg-id="cnbcindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cnbc.png" group-title="NEWS",CNBC INDONESIA (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
@@ -915,7 +915,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce016658680
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="tvone" tvg-id="tvone" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvone.png" group-title="NEWS",TV ONE (MNCNOW)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
@@ -929,7 +929,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="tvone" tvg-id="tvone" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvone.png" group-title="NEWS",TV ONE (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
@@ -937,14 +937,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6df9
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="kompastv" tvg-id="kompastv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kompastv.png" group-title="NEWS",KOMPAS TV (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="kompastv" tvg-id="kompastv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kompastv.png" group-title="NEWS",KOMPAS TV (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
@@ -960,7 +960,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="idx" tvg-id="idx" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/idx.png" group-title="NEWS",IDX (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
@@ -972,14 +972,14 @@ https://edge.medcom.id/live-edge/smil:bnch.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="metrotv" tvg-id="metrotv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/metrotv.png" group-title="NEWS",METRO TV (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="metrotv" tvg-id="metrotv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/metrotv.png" group-title="NEWS",METRO TV (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
@@ -996,47 +996,47 @@ https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2fdc5d5def7460a8dfb78492b66dd4f:a99645e65ce190e9556dda93be172cd4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="daaitv" tvg-id="daaitv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/daaitv.png" group-title="NEWS",DAAI TV (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="daaitv" tvg-id="daaitv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/daaitv.png" group-title="NEWS",DAAI TV (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="aljazeerainternational" tvg-id="aljazeerainternational" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/aljazeera.png" group-title="NEWS",ALJAZEERA INTERNATIONAL (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="aljazeeraarab" tvg-id="aljazeeraarab" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/aljazeera.png" group-title="NEWS",ALJAZEERA ARAB (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mpd/AlJzrArab.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="nhkworldpremium" tvg-id="nhkworldpremium" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nhkworldpremium.png" group-title="NEWS",NHK WORLD PREMIUM (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="dwenglish" tvg-id="dwenglish" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/dw.png" group-title="NEWS",DW ENGLISH (FIRSTMEDIA)
 https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="jktglobe" tvg-id="jktglobe" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/jktglobe.png" group-title="NEWS",JAKARTA GLOBE NEWS CHANNEL (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
@@ -1063,7 +1063,7 @@ https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="joketv" tvg-id="joketv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/joketv.png" group-title="LIFESTYLE",JOKE TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
@@ -1074,7 +1074,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="onetv" tvg-id="onetv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/onetv.png" group-title="LIFESTYLE",ONE TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd
@@ -1085,7 +1085,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="asianfoodnetwork" tvg-id="asianfoodnetwork" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/afn.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3ce05d3e/manifest.mpd
@@ -1093,7 +1093,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="asianfoodnetwork" tvg-id="asianfoodnetwork" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/afn.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
@@ -1108,7 +1108,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="cookingtv" tvg-id="cookingtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cookingtv.png" group-title="LIFESTYLE",COOKING TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
@@ -1132,26 +1132,26 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="citraentertainment" tvg-id="citraentertainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citraenter.png" group-title="LIFESTYLE",CITRA ENTERTAINMENT (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="firstlifestyle" tvg-id="firstlifestyle" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/firstlifestyle.png" group-title="LIFESTYLE",FIRST LIFESTYLE
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="tlc" tvg-id="tlc" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tlc.png" group-title="LIFESTYLE",TLC
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="lifestyle&fashion" tvg-id="lifestyle&fashion" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lifestylefashion.png" group-title="LIFESTYLE",LIFESTYLE & FASHION (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
 
@@ -1161,7 +1161,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/LifeStyleFashion/sa_dash/LifeSt
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="eatngo" tvg-id="eatngo" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/eatngo.png" group-title="LIFESTYLE",EAT&GO (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
@@ -1172,7 +1172,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d017034201
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="insert" tvg-id="insert" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/insert.png" group-title="LIFESTYLE",!NSERT (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
@@ -1183,7 +1183,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc512
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="gossip" tvg-id="gossip" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/gossip.png" group-title="LIFESTYLE",GOSSIP (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
@@ -1194,7 +1194,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="seru" tvg-id="seru" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/seru.png" group-title="LIFESTYLE",SERU CHANNEL (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
@@ -1210,7 +1210,7 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="pretty" tvg-id="pretty" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/pretty.png" group-title="LIFESTYLE",PRETTY TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6858119921801816b52686d5e62/manifest.mpd
@@ -1221,7 +1221,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6858119921801816b526
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="fashiontv" tvg-id="fashiontv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fashiontv.png" group-title="LIFESTYLE",FASHION TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
@@ -1229,7 +1229,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac3
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="fashiontv" tvg-id="fashiontv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fashiontv.png" group-title="LIFESTYLE",FASHION TV (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
@@ -1264,49 +1264,49 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="hgtv" tvg-id="hgtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hgtv.png" group-title="KNOWLEDGES",HGTV (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="discovery" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discovery.png" group-title="KNOWLEDGES",DISCOVERY (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="discoveryasia" tvg-id="discoveryasia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discoveryasia.png" group-title="KNOWLEDGES",DISCOVERY ASIA (FIRSTMEDIA)
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="lovenature" tvg-id="lovenature" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lovenature.png" group-title="KNOWLEDGES",LOVE NATURE (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="lovenature" tvg-id="lovenature" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lovenature.png" group-title="KNOWLEDGES",LOVE NATURE (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="dmax" tvg-id="dmax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/dmax.png" group-title="KNOWLEDGES",DMAX (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="bbcearth" tvg-id="bbcearth" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/bbcearth.png" group-title="KNOWLEDGES",BBC EARTH (MNCNOW)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
@@ -1321,7 +1321,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="howto" tvg-id="howto" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/howto.png" group-title="KNOWLEDGES",HOW TO (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd
@@ -1332,7 +1332,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="knowledgeplus" tvg-id="knowledgeplus" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/knowledgeplus.png" group-title="KNOWLEDGES",KNOWLEDGES+ (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd
@@ -1350,21 +1350,21 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="animalplanet" tvg-id="animalplanet" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/animalplanet.png" group-title="KNOWLEDGES",ANIMAL PLANET (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="history" tvg-id="history" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/history.png" group-title="KNOWLEDGES",HISTORY (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cgtndocumentary" tvg-id="cgtndocumentary" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cgtndoc.png" group-title="KNOWLEDGES",CGTN DOCUMENTARY (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumentaryHD.mpd
 
@@ -1391,7 +1391,7 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="globaltrekker" tvg-id="globaltrekker" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/globaltrekker.png" group-title="KNOWLEDGES",GLOBAL TREKKER (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
 
@@ -1413,7 +1413,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="outdoorchannel" tvg-id="outdoorchannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/outdoorchannel.png" group-title="KNOWLEDGES",OUTDOOR CHANNEL (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
@@ -1430,7 +1430,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="bioskopindonesia" tvg-id="bioskopindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/bioskopindonesia.png" group-title="MOVIES",BIOSKOP INDONESIA (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
@@ -1438,27 +1438,27 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="citrabioskop" tvg-id="citrabioskop" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citrabioskop.png" group-title="MOVIES",CITRA BIOSKOP (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="imc" tvg-id="imc" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/imc.png" group-title="MOVIES",IMC (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="galaxy" tvg-id="galaxy" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxy.png" group-title="MOVIES",GALAXY (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="galaxypremium" tvg-id="galaxypremium" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxypremium.png" group-title="MOVIES",GALAXY PREMIUM (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="paramount" tvg-id="paramount" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/paramount.png" group-title="MOVIES",PARAMOUNT (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Paramount-HD/sa_dash/Paramount-HD.mpd
 
@@ -1472,7 +1472,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemax" tvg-id="cinemax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemax.png" group-title="MOVIES",CINEMAX (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
@@ -1482,7 +1482,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="cinemax" tvg-id="cinemax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemax.png" group-title="MOVIES",CINEMAX (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
@@ -1497,7 +1497,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="hbo" tvg-id="hbo" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hbo.png" group-title="MOVIES",HBO (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
@@ -1507,7 +1507,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="hbo" tvg-id="hbo" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hbo.png" group-title="MOVIES",HBO (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
@@ -1522,7 +1522,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="hbosignature" tvg-id="hbosignature" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hbosignature.png" group-title="MOVIES",HBO SIGNATURE (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
@@ -1532,7 +1532,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="hbosignature" tvg-id="hbosignature" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hbosignature.png" group-title="MOVIES",HBO SIGNATURE (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
@@ -1547,7 +1547,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="hbofamily" tvg-id="hbofamily" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hbofamily.png" group-title="MOVIES",HBO FAMILY (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
@@ -1557,7 +1557,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="hbofamily" tvg-id="hbofamily" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hbofamily.png" group-title="MOVIES",HBO FAMILY (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
@@ -1572,7 +1572,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="hbohits" tvg-id="hbohits" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hbohits.png" group-title="MOVIES",HBO HITS (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
@@ -1582,7 +1582,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="hbohits" tvg-id="hbohits" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hbohits.png" group-title="MOVIES",HBO HITS (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
@@ -1593,7 +1593,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="warnertv" tvg-id="warnertv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/wbtv.png" group-title="MOVIES",WARNER TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
@@ -1601,14 +1601,14 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b53
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="hitsmovies" tvg-id="hitsmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hitsmovies.png" group-title="MOVIES",HITS MOVIES (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="hits" tvg-id="hits" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hits.png" group-title="MOVIES",HITS (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 
@@ -1622,57 +1622,57 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemachi" tvg-id="cinemachi" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachi.png" group-title="MOVIES",CINEMACHI (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemachiaction" tvg-id="cinemachiaction" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachiaction.png" group-title="MOVIES",CINEMACHI ACTION (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemachimax" tvg-id="cinemachimax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachimax.png" group-title="MOVIES",CINEMACHI MAX (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemachixtra" tvg-id="cinemachixtra" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachixtra.png" group-title="MOVIES",CINEMACHI XTRA (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="axn" tvg-id="axn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/axn.png" group-title="MOVIES",AXN (MNCNOW)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="axn" tvg-id="axn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/axn.png" group-title="MOVIES",AXN (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="crimeinvestigation" tvg-id="crimeinvestigation" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/crimeinvestigation.png" group-title="MOVIES",CRIME INVESTIGATION (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="crimeinvestigation" tvg-id="crimeinvestigation" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/crimeinvestigation.png" group-title="MOVIES",CRIME INVESTIGATION (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="thrill" tvg-id="thrill" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/thrill.png" group-title="MOVIES",THRILL (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
@@ -1687,14 +1687,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rockaction.png" group-title="MOVIES",ROCK ACTION (MNCNOW)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rockaction.png" group-title="MOVIES",ROCK ACTION (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
@@ -1705,14 +1705,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rockentertainment.png" group-title="MOVIES",ROCK ENTERTAINMENT (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rockentertainment.png" group-title="MOVIES",ROCK ENTERTAINMENT (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 
@@ -1735,28 +1735,28 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="zeebioskop" tvg-id="zeebioskop" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/zeebioskop.png" group-title="MOVIES",ZEE BIOSKOP (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="zeebioskop" tvg-id="zeebioskop" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/zeebioskop.png" group-title="MOVIES",ZEE BIOSKOP (FIRSTMEDIA)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="celestialmovies" tvg-id="celestialmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/celestialmovies.png" group-title="MOVIES",CELESTIAL MOVIES (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="celestialmovies" tvg-id="celestialmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/celestialmovies.png" group-title="MOVIES",CELESTIAL MOVIES (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
@@ -1767,7 +1767,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="sonymax" tvg-id="sonymax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/sonymax.png" group-title="MOVIES",SONY MAX (FIRSTMEDIA)
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
@@ -1814,7 +1814,7 @@ http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/298529
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="studiouniversal" tvg-id="studiouniversal" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/studiouniversal.png" group-title="MOVIES",STUDIO UNIVERSAL (MNCNOW)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
@@ -1823,26 +1823,26 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=204
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="dramachannel" tvg-id="dramachannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lifetime.png" group-title="DRAMA",DRAMA CHANNEL (MNCNOW)
 https://bintangstreaming.my.id/rcti_plus/index.mpd?id=204
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=204
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="dramachannel" tvg-id="dramachannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lifetime.png" group-title="DRAMA",DRAMA CHANNEL (MNCNOW)
 https://bintangstreaming.my.id/rcti_plus/index.mpd?id=205
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=204
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="dramachannel" tvg-id="dramachannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lifetime.png" group-title="DRAMA",DRAMA CHANNEL (MNCNOW)
 https://bintangstreaming.my.id/rcti_plus/index.mpd?id=201
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 #EXTINF:-1  tvg-name="citradrama" tvg-id="citradrama" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradrama.png" group-title="DRAMA",CITRA DRAMA (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
@@ -1850,21 +1850,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="lifetime" tvg-id="lifetime" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lifetime.png" group-title="DRAMA",LIFETIME (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="tvn" tvg-id="tvn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvn.png" group-title="DRAMA",TVN (MNCNOW)
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="tvn" tvg-id="tvn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvn.png" group-title="DRAMA",TVN (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 
@@ -1875,7 +1875,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="tvnmovies" tvg-id="tvnmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvnmovies.png" group-title="DRAMA",TVN MOVIES (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
@@ -1886,14 +1886,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="kix" tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kix.png" group-title="DRAMA",KIX (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="kix" tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kix.png" group-title="DRAMA",KIX (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
@@ -1913,12 +1913,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="one" tvg-id="one" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/one.png" group-title="DRAMA",ONE (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="fmn" tvg-id="fmn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fmn.png" group-title="DRAMA",FMN (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/FMN/sa_dash/FMN.mpd
 
@@ -1933,7 +1933,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="gem" tvg-id="gem" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/gem.png" group-title="DRAMA",GEM (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
@@ -1951,21 +1951,21 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="vtv" tvg-id="vtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/vtv.png" group-title="KIDS",VTV
 https://why.biz.id/Iptv/oxygen.php?id=vtv
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="carttoonito" tvg-id="carttoonito" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/carttoonito.png" group-title="KIDS",CARTOONITO (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="horee" tvg-id="horee" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/horee.png" group-title="KIDS",HOREE (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
@@ -1975,7 +1975,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="lingua" tvg-id="lingua" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lingua.png" group-title="KIDS",LINGUA CHANNEL (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
@@ -1986,7 +1986,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="duniaanak" tvg-id="duniaanak" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/duniaanak.png" group-title="KIDS",DUNIA ANAK (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
@@ -1997,7 +1997,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="cartoontv" tvg-id="cartoontv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoontv.png" group-title="KIDS",CARTOON TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
@@ -2008,7 +2008,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="cartoontvpremium" tvg-id="cartoontvpremium" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoontvpremium.png" group-title="KIDS",CARTOON TV PREMIUM (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
@@ -2019,13 +2019,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="cartoontvclassic" tvg-id="cartoontvclassic" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoontvclassic.png" group-title="KIDS",CARTOON TV CLASSIC (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="besmart" tvg-id="besmart" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/besmarttv.png" group-title="KIDS",BESMART (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/BeSmart/sa_dash/BeSmart.mpd
 
@@ -2035,7 +2035,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/BeSmart/sa_dash/BeSmart.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="boomerang" tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/boomerang.png" group-title="KIDS",BOOMERANG (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
@@ -2044,21 +2044,21 @@ http://49.12.123.148:8989/1013/hls/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="zoomoo" tvg-id="zoomoo" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/zoomoo.png" group-title="KIDS",ZOOMOO (MNCNOW)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="animax" tvg-id="animax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/animax.png" group-title="KIDS",ANIMAX (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="dreamworks" tvg-id="dreamworks" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/dreamworks.png" group-title="KIDS",DREAMWORKS (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
@@ -2070,59 +2070,59 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cartoonnetwork" tvg-id="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK (FIRSTMEDIA)
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="nickjr" tvg-id="nickjr" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nickjr.png" group-title="KIDS",NICK JR (MNCNOW)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="nickjr" tvg-id="nickjr" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nickjr.png" group-title="KIDS",NICK JR (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="nickelodeon" tvg-id="nickelodeon" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nick.png" group-title="KIDS",NICKELODEON (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="nickelodeon" tvg-id="nickelodeon" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nick.png" group-title="KIDS",NICKELODEON (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="kidstv" tvg-id="kidstv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kidstv.png" group-title="KIDS",KIDS TV (MNCNOW)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cbeebies" tvg-id="cbeebies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cbeebies.png" group-title="KIDS",CBEEBIES (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="babytv" tvg-id="babytv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/babytv.png" group-title="KIDS",BABY TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="miaomi" tvg-id="miaomi" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/miaoomi.png" group-title="KIDS",MIAOMI (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MiaoMi/sa_dash/MiaoMi.mpd
 
@@ -2132,7 +2132,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/MiaoMi/sa_dash/MiaoMi.mpd
 https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemachikids" tvg-id="cinemachikids" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachikids.png" group-title="KIDS",CINEMACHI KIDS (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
@@ -2152,7 +2152,7 @@ http://rr.dens.tv:80/h/h114/S4/mnf.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="moonbug" tvg-id="moonbug" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/moonbug.png" group-title="KIDS",MOONBUG (MNCNOW)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
@@ -2164,35 +2164,35 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="disneyjr" tvg-id="disneyjr" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/disneyjr.png" group-title="KIDS",DISNEY JR 
 https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="disney" tvg-id="disney" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/disney.png" group-title="KIDS",DISNEY 
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="disneyxd" tvg-id="disneyxd" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/disneyxd.png" group-title="KIDS",DISNEY XD
 https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="treehouse" tvg-id="treehouse" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/treehouse.png" group-title="KIDS",TREEHOUSE TV
 https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="ytv" tvg-id="ytv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/ytv.png" group-title="KIDS",YTV
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
@@ -2201,7 +2201,7 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="musictv" tvg-id="musictv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/musictv.png" group-title="MUSICS",MUSIC TV (MNCNOW)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
@@ -2211,7 +2211,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="musikindonesia" tvg-id="musikindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/musikindonesia.png" group-title="MUSICS",MUSIK INDONESIA (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
@@ -2222,7 +2222,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="nusantaramusik" tvg-id="nusantaramusik" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nusantaramusik.png" group-title="MUSICS",NUSANTARA MUSIK (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
@@ -2233,7 +2233,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="songtv" tvg-id="songtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/songtv.png" group-title="MUSICS",SONG TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
@@ -2241,21 +2241,21 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="citradangdut" tvg-id="citradangdut" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradangdut.png" group-title="MUSICS",CITRA DANGDUT (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="mtv90" tvg-id="mtv90" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mtv90.png" group-title="MUSICS",MTV 90'S (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="mtvlive" tvg-id="mtvlive" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mtvlive.png" group-title="MUSICS",MTV LIVE (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
@@ -2305,7 +2305,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="fitness" tvg-id="fitness" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fitness.png" group-title="SPORTS",FITNESS TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845601ffcb4364/manifest.mpd
@@ -2350,7 +2350,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="footballtv" tvg-id="footballtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/footballtv.png" group-title="SPORTS",FOOTBALL TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e0182597777ec21f3/manifest.mpd
@@ -2361,7 +2361,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e018259777
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="historicalsports" tvg-id="historicalsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/historicalsports.png" group-title="SPORTS",HISTORICAL SPORTS (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
@@ -2372,7 +2372,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="sportstv" tvg-id="sportstv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/sportstv.png" group-title="SPORTS",SPORTS TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060afdef540bc/manifest.mpd
@@ -2383,7 +2383,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060afd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="xtremsports" tvg-id="xtremsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/xtremsports.png" group-title="SPORTS",XTREM SPORTS (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
@@ -2394,7 +2394,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a43
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="idcyclist" tvg-id="idcyclist" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/idcyclist.png" group-title="SPORTS",ID.CYCLIST (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd
@@ -2405,7 +2405,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="speedtv" tvg-id="speedtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/speedtv.png" group-title="SPORTS",SPEED TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
@@ -2416,7 +2416,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b23
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="balap" tvg-id="balap" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/balap.png" group-title="SPORTS",BALAP TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
@@ -2427,7 +2427,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="motorracing" tvg-id="motorracing" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/motorracing.png" group-title="SPORTS",MOTOR RACING (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
@@ -2447,7 +2447,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="horizonsports" tvg-id="horizonsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/horizonsports.png" group-title="SPORTS", HORIZON SPORTS (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d55f480b52/manifest.mpd
@@ -2467,7 +2467,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTINF:-1  tvg-name="fighttv" tvg-id="fighttv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fighttv.png" group-title="SPORTS",FIGHT TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
@@ -2475,42 +2475,42 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="spotv" tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/spotv.png" group-title="SPORTS",SPOTV (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="spotv2" tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/spotv2.png" group-title="SPORTS",SPOTV 2 (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="eurosport" tvg-id="eurosport" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/eurosport.png" group-title="SPORTS",EUROSPORT (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="sportstars" tvg-id="sportstars" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/sportstars.png" group-title="SPORTS",SPORTSTARS (MNCNOW)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="sportstars2" tvg-id="sportstars2" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/sportstars2.png" group-title="SPORTS",SPORTSTARS2 (MNCNOW)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="soccerchannel" tvg-id="soccerchannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/soccerchannel.png" group-title="SPORTS",SOCCER CHANNEL (MNCNOW)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
@@ -2521,35 +2521,35 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="beinsports1" tvg-id="beinsports1" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="SPORTS",BEINSPORTS 1 (MNCNOW)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="beinsports1" tvg-id="beinsports1" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="SPORTS",BEINSPORTS 2 (MNCNOW)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="beinsports1" tvg-id="beinsports1" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="SPORTS",BEINSPORTS 3 (MNCNOW)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="beinsports1" tvg-id="beinsports1" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="SPORTS",BEINSPORTS 4 (MNCNOW)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="beinsports1" tvg-id="beinsports1" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="SPORTS",BEINSPORTS 5 (MNCNOW)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
