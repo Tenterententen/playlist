@@ -456,6 +456,12 @@ https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
 #EXTINF:-1  tvg-name="duniaanak" tvg-id="duniaanak" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/duniaanak.png" group-title="INDIHOME",DUNIA ANAK
 https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 
+##EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1  tvg-name="sindonews" tvg-id="sindonews" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/sindonews.png" group-title="INDIHOME",SINDONEWS
+https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
 ###############################################################################
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -469,7 +475,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
 #EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvri.png" group-title="NATIONWIDE",TVRI (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -487,7 +493,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rcti.png" group-title="NATIONWIDE",RCTI (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -566,7 +572,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/indosiar.png" group-title="NATIONWIDE",INDOSIAR (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -595,7 +601,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/antv.png" group-title="NATIONWIDE",ANTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -618,10 +624,12 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1  tvg-name="transtv" tvg-id="transtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/transtv.png" group-title="NATIONWIDE",TRANS TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="trans7" tvg-id="trans7" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/trans7.png" group-title="NATIONWIDE",TRANS7 (MNCNOW)
-https://legacy-global-cdn.visionplus.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -645,14 +653,20 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
+#EXTINF:-1  tvg-name="nusantaratv" tvg-id="nusantaratv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nusantaratv.png" group-title="NATIONWIDE",NUSANTARA TV (DENS)
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/net.png" group-title="NATIONWIDE",NET. (MNCNOW)
-https://legacy-global-cdn.visionplus.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+#EXTINF:-1  tvg-name="mdtv" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mdtv.png" group-title="NATIONWIDE",MDTV (MNCNOW)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2 
-#EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/net.png" group-title="NATIONWIDE",NET. (DENS)
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:-1  tvg-name="mdtv" tvg-id="mdtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mdtv.png" group-title="NATIONWIDE",MDTV (DENS)
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -662,13 +676,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/net.png" group-title="NATIONWIDE",NET. (TRANSVISION)
+#EXTINF:-1  tvg-name="mdtv" tvg-id="mdtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mdtv.png" group-title="NATIONWIDE",MDTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rtv.png" group-title="NATIONWIDE",RTV (MNCNOW)
-https://legacy-global-cdn.visionplus.id/live/eds/RTV/sa_dash/RTV.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2 
+#EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rtv.png" group-title="NATIONWIDE",RTV (DENS)
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -681,14 +701,12 @@ https://legacy-global-cdn.visionplus.id/live/eds/RTV/sa_dash/RTV.mpd
 #EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rtv.png" group-title="NATIONWIDE",RTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2 
-#EXTINF:-1  tvg-name="mdtv" tvg-id="mdtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mdtv.png" group-title="NATIONWIDE",MDTV (DENS)
-http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1  tvg-name="jaktv" tvg-id="jaktv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/jaktv.png" group-title="NATIONWIDE",JAKTV (MNCNOW)
-https://legacy-global-cdn.visionplus.id/live/eds/JakTV/sa_dash/JakTV.mpd
+#EXTINF:-1  tvg-name="jaktv" tvg-id="jaktv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/jaktv.png" group-title="NATIONWIDE",JAKTV (FIRSTMEDIA)
+https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -698,6 +716,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1  tvg-name="garudatv" tvg-id="garudatv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/garudatv.png" group-title="NATIONWIDE",GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -715,25 +734,27 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1  tvg-name="digione" tvg-id="digione" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/digione.png" group-title="NATIONWIDE",DIGIONE (MAXSTREAM)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="mncinfotainment" tvg-id="mncinfotainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mncinfotainment.png" group-title="NATIONWIDE",MNC INFOTAINMENT (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="mncentertainment" tvg-id="mncentertainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mncentertainment.png" group-title="NATIONWIDE",MNC ENTERTAINMENT (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="oktv" tvg-id="oktv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/oktv.png" group-title="NATIONWIDE",OKTV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/OKTV/sa_dash/OKTV.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="visionprime" tvg-id="visionprime" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/visionprime.png" group-title="NATIONWIDE",VISION PRIME (MNCNOW)
-https://legacy-global-cdn.visionplus.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -767,7 +788,7 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
 ###############################################################################
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-name="qurantv" tvg-id="qurantv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/qurantv.png" group-title="RELIGIOUS",QURAN TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/AlQuranAlKareem/sa_dash/AlQuranAlKareem.mpd
@@ -780,17 +801,17 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 #EXTINF:-1 tvg-name="madinahtv" tvg-id="madinahtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/qurantv.png" group-title="RELIGIOUS",MADINAH TV (DENS)
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="tawaftv" tvg-id="tawaftv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tawaftv.png" group-title="RELIGIOUS",TAWAF TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/TawafTV/sa_dash/TawafTV.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="muslimtv" tvg-id="muslimtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/muslimtv.png" group-title="RELIGIOUS",MUSLIM TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="tvmu" tvg-id="tvmu" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvmu.png" group-title="RELIGIOUS",TVMU (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/TVMuhammadiyah/sa_dash/TVMuhammadiyah.mpd
@@ -832,10 +853,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.m
 
 ###############################################################################
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="btv" tvg-id="btv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/btv.png" group-title="NEWS",BTV (MNCNOW)
-https://legacy-global-cdn.visionplus.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -849,12 +869,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1  tvg-name="btv" tvg-id="btv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/btv.png" group-title="NEWS",BTV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1  tvg-name="sindonews" tvg-id="sindonews" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/sindonews.png" group-title="NEWS",SINDONEWS (MNCNOW)
-https://legacy-global-cdn.visionplus.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="inews" tvg-id="inews" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/inews.png" group-title="NEWS",INEWS (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
@@ -881,7 +896,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1  tvg-name="cnbcindonesia" tvg-id="cnbcindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cnbc.png" group-title="NEWS",CNBC INDONESIA (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="tvone" tvg-id="tvone" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvone.png" group-title="NEWS",TV ONE (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
@@ -902,7 +917,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1  tvg-name="tvone" tvg-id="tvone" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvone.png" group-title="NEWS",TV ONE (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="kompastv" tvg-id="kompastv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kompastv.png" group-title="NEWS",KOMPAS TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
@@ -917,7 +932,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 #EXTINF:-1  tvg-name="beritasatuworld" tvg-id="beritasatuworld" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beritasatuworld.png" group-title="NEWS",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="idx" tvg-id="idx" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/idx.png" group-title="NEWS",IDX (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/IDX/sa_dash/IDX.mpd
@@ -927,7 +942,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/IDX/sa_dash/IDX.mpd
 #EXTINF:-1  tvg-name="metrotv" tvg-id="metrotv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/metrotv.png" group-title="NEWS",METRO TV 
 https://edge.medcom.id/live-edge/smil:bnch.smil/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="metrotv" tvg-id="metrotv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/metrotv.png" group-title="NEWS",METRO TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
@@ -942,22 +957,22 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="gprtv" tvg-id="gprtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/gprtv.png" group-title="NEWS",GPR TV
 https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="daaitv" tvg-id="daaitv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/daaitv.png" group-title="NEWS",DAAI TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="aljazeerainternational" tvg-id="aljazeerainternational" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/aljazeera.png" group-title="NEWS",ALJAZEERA INTERNATIONAL (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="nhkworldpremium" tvg-id="nhkworldpremium" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nhkworldpremium.png" group-title="NEWS",NHK WORLD PREMIUM (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPremium.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="dwenglish" tvg-id="dwenglish" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/dw.png" group-title="NEWS",DW ENGLISH (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/DW/sa_dash/DW.mpd
@@ -1048,7 +1063,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1  tvg-name="citraentertainment" tvg-id="citraentertainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citraenter.png" group-title="LIFESTYLE",CITRA ENTERTAINMENT (LINKNET)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="lifestyle&fashion" tvg-id="lifestyle&fashion" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lifestylefashion.png" group-title="LIFESTYLE",LIFESTYLE & FASHION (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
@@ -1158,12 +1173,12 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 #EXTINF:-1  tvg-name="hgtv" tvg-id="hgtv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hgtv.png" group-title="KNOWLEDGES",HGTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="nationalgeographic" tvg-id="nationalgeographic" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/natgeo.png" group-title="KNOWLEDGES",NATIONAL GEOGRAPHIC (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/NatGeoChannel/sa_dash/NatGeoChannel.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="natgeowild" tvg-id="natgeowild" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/natgeowild.png" group-title="KNOWLEDGES",NAT GEO WILD (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/NatGeoWild/sa_dash/NatGeoWild.mpd
@@ -1174,7 +1189,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/NatGeoWild/sa_dash/NatGeoWild.m
 #EXTINF:-1  tvg-name="discovery" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/discovery.png" group-title="KNOWLEDGES",DISCOVERY (LINKNET)
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="bbcearth" tvg-id="bbcearth" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/bbcearth.png" group-title="KNOWLEDGES",BBC EARTH (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
@@ -1228,7 +1243,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #EXTINF:-1  tvg-name="history" tvg-id="history" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/history.png" group-title="KNOWLEDGES",HISTORY (LINKNET)
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="cgtndocumentary" tvg-id="cgtndocumentary" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cgtndoc.png" group-title="KNOWLEDGES",CGTN DOCUMENTARY (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
@@ -1253,7 +1268,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1  tvg-name="insight" tvg-id="insight" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/insight.png" group-title="KNOWLEDGES",INSIGHT TV
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="globaltrekker" tvg-id="globaltrekker" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/globaltrekker.png" group-title="KNOWLEDGES",GLOBAL TREKKER (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
@@ -1297,22 +1312,22 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #EXTINF:-1  tvg-name="citrabioskop" tvg-id="citrabioskop" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citrabioskop.png" group-title="MOVIES",CITRA BIOSKOP (LINKNET)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="imc" tvg-id="imc" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/imc.png" group-title="MOVIES",IMC (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="galaxy" tvg-id="galaxy" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxy.png" group-title="MOVIES",GALAXY (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="galaxypremium" tvg-id="galaxypremium" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxypremium.png" group-title="MOVIES",GALAXY PREMIUM (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="paramount" tvg-id="paramount" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/paramount.png" group-title="MOVIES",PARAMOUNT (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Paramount-HD/sa_dash/Paramount-HD.mpd
@@ -1448,12 +1463,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #EXTINF:-1  tvg-name="warnertv" tvg-id="warnertv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/wbtv.png" group-title="MOVIES",WARNER TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="hitsmovies" tvg-id="hitsmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hitsmovies.png" group-title="MOVIES",HITS MOVIES (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="hits" tvg-id="hits" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/hits.png" group-title="MOVIES",HITS (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/HITS/sa_dash/HITS.mpd
@@ -1467,37 +1482,37 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #EXTINF:-1  tvg-name="cinemaworld" tvg-id="cinemaworld" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemaworld.png" group-title="MOVIES",CINEMAWORLD (DENS)
 https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="cinemachi" tvg-id="cinemachi" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachi.png" group-title="MOVIES",CINEMACHI (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="cinemachiaction" tvg-id="cinemachiaction" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachiaction.png" group-title="MOVIES",CINEMACHI ACTION (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="cinemachimax" tvg-id="cinemachimax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachimax.png" group-title="MOVIES",CINEMACHI MAX (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="cinemachixtra" tvg-id="cinemachixtra" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachixtra.png" group-title="MOVIES",CINEMACHI XTRA (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="axn" tvg-id="axn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/axn.png" group-title="MOVIES",AXN (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/AXN/sa_dash/AXN.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="crimeinvestigation" tvg-id="crimeinvestigation" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/crimeinvestigation.png" group-title="MOVIES",CRIME INVESTIGATION (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="thrill" tvg-id="thrill" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/thrill.png" group-title="MOVIES",THRILL (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Thrill/sa_dash/Thrill.mpd
@@ -1510,7 +1525,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rockaction.png" group-title="MOVIES",ROCK ACTION (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rockaction.png" group-title="MOVIES",ROCK ACTION (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Rockaction/sa_dash/Rockaction.mpd
@@ -1519,7 +1534,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/Rockaction/sa_dash/Rockaction.m
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rockentertainment.png" group-title="MOVIES",ROCK ENTERTAINMENT (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rockentertainment.png" group-title="MOVIES",ROCK ENTERTAINMENT (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
@@ -1528,7 +1543,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/Rockentertainment/sa_dash/Rocke
 #EXTINF:-1  tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mycinema.png" group-title="MOVIES",MY CINEMA (DENS)
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mycinema.png" group-title="MOVIES",MY CINEMA (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MyCinema/sa_dash/MyCinema.mpd
@@ -1537,7 +1552,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/MyCinema/sa_dash/MyCinema.mpd
 #EXTINF:-1  tvg-name="mycinemaasia" tvg-id="mycinemaasia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mycinemaasia.png" group-title="MOVIES",MY CINEMA ASIA (DENS)
 https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="mycinemaasia" tvg-id="mycinemaasia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mycinemaasia.png" group-title="MOVIES",MY CINEMA ASIA (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MyCinema-Asia/sa_dash/MyCinema-Asia.mpd
@@ -1546,7 +1561,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/MyCinema-Asia/sa_dash/MyCinema-
 #EXTINF:-1  tvg-name="myfamilychannel" tvg-id="myfamilychannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/myfamilychannel.png" group-title="MOVIES",MY FAMILY CHANNEL (DENS)
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="myfamilychannel" tvg-id="myfamilychannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/myfamilychannel.png" group-title="MOVIES",MY FAMILY CHANNEL (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MyFamily/sa_dash/MyFamily.mpd
@@ -1555,12 +1570,12 @@ https://legacy-global-cdn.visionplus.id/live/eds/MyFamily/sa_dash/MyFamily.mpd
 #EXTINF:-1  tvg-name="mycinemaeurope" tvg-id="mycinemaeurope" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mycinemaeurope.png" group-title="MOVIES",MY CINEMA EUROPE (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="zeebioskop" tvg-id="zeebioskop" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/zeebioskop.png" group-title="MOVIES",ZEE BIOSKOP (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="celestialmovies" tvg-id="celestialmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/celestialmovies.png" group-title="MOVIES",CELESTIAL MOVIES (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
@@ -1569,7 +1584,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/CelestialMovie/sa_dash/Celestia
 #EXTINF:-1  tvg-name="celestialmovies" tvg-id="celestialmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/celestialmovies.png" group-title="MOVIES",CELESTIAL MOVIES (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="celestialclassicmovies" tvg-id="celestialclassicmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/ccm.png" group-title="MOVIES",CELESTIAL CLASSIC MOVIES (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
@@ -1618,7 +1633,7 @@ http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/298528
 #EXTINF:-1  tvg-name="etv" tvg-id="etv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/etv.png" group-title="MOVIES",ETV BIOSKOP 4
 http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/298529
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="studiouniversal" tvg-id="studiouniversal" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/studiouniversal.png" group-title="MOVIES",STUDIO UNIVERSAL (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd
@@ -1631,12 +1646,12 @@ https://legacy-global-cdn.visionplus.id/live/eds/UniversalHD/sa_dash/UniversalHD
 #EXTINF:-1  tvg-name="citradrama" tvg-id="citradrama" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citradrama.png" group-title="DRAMA",CITRA DRAMA (LINKNET)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="lifetime" tvg-id="lifetime" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/lifetime.png" group-title="DRAMA",LIFETIME (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Lifetime/sa_dash/Lifetime.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="tvn" tvg-id="tvn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvn.png" group-title="DRAMA",TVN (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/tvN/sa_dash/tvN.mpd
@@ -1645,7 +1660,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/tvN/sa_dash/tvN.mpd
 #EXTINF:-1  tvg-name="tvn" tvg-id="tvn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvn.png" group-title="DRAMA",TVN (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="tvnmovies" tvg-id="tvnmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvnmovies.png" group-title="DRAMA",TVN MOVIES (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
@@ -1654,7 +1669,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 #EXTINF:-1  tvg-name="tvnmovies" tvg-id="tvnmovies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvnmovies.png" group-title="DRAMA",TVN MOVIES (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="kix" tvg-id="kix" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kix.png" group-title="DRAMA",KIX (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/KIX/sa_dash/KIX.mpd
@@ -1672,12 +1687,12 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-name="k+" tvg-id="k+" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kplus.png" group-title="DRAMA",K+ (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="one" tvg-id="one" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/one.png" group-title="DRAMA",ONE (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/SetOne/sa_dash/SetOne.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="fmn" tvg-id="fmn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fmn.png" group-title="DRAMA",FMN (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/FMN/sa_dash/FMN.mpd
@@ -1760,7 +1775,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b
 #EXTINF:-1  tvg-name="cartoontvclassic" tvg-id="cartoontvclassic" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoontvclassic.png" group-title="KIDS",CARTOON TV CLASSIC (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="besmart" tvg-id="besmart" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/besmarttv.png" group-title="KIDS",BESMART (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/BeSmart/sa_dash/BeSmart.mpd
@@ -1777,17 +1792,17 @@ https://legacy-global-cdn.visionplus.id/live/eds/BeSmart/sa_dash/BeSmart.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 http://49.12.123.148:8989/1013/hls/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="zoomoo" tvg-id="zoomoo" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/zoomoo.png" group-title="KIDS",ZOOMOO (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Boomerang/sa_dash/Boomerang.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="animax" tvg-id="animax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/animax.png" group-title="KIDS",ANIMAX (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Animax/sa_dash/Animax.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="dreamworks" tvg-id="dreamworks" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/dreamworks.png" group-title="KIDS",DREAMWORKS (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
@@ -1797,32 +1812,32 @@ https://legacy-global-cdn.visionplus.id/live/eds/Dreamwork-HD/sa_dash/Dreamwork-
 #EXTINF:-1  tvg-name="cartoonnetwork" tvg-id="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK (MAXSTREAM)
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="nickjr" tvg-id="nickjr" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nickjr.png" group-title="KIDS",NICK JR (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="nickelodeon" tvg-id="nickelodeon" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nick.png" group-title="KIDS",NICKELODEON (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="kidstv" tvg-id="kidstv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/kidstv.png" group-title="KIDS",KIDS TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/KidsChannel/sa_dash/KidsChannel.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="cbeebies" tvg-id="cbeebies" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cbeebies.png" group-title="KIDS",CBEEBIES (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="babytv" tvg-id="babytv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/babytv.png" group-title="KIDS",BABY TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="miaomi" tvg-id="miaomi" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/miaoomi.png" group-title="KIDS",MIAOMI (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MiaoMi/sa_dash/MiaoMi.mpd
@@ -1832,7 +1847,7 @@ https://legacy-global-cdn.visionplus.id/live/eds/MiaoMi/sa_dash/MiaoMi.mpd
 #EXTINF:-1  tvg-name="indikids" tvg-id="indikids" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/indikids.png" group-title="KIDS",INDIKIDS
 https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="cinemachikids" tvg-id="cinemachikids" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachikids.png" group-title="KIDS",CINEMACHI KIDS (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
@@ -1856,7 +1871,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 ###############################################################################
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="musictv" tvg-id="musictv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/musictv.png" group-title="MUSICS",MUSIC TV (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
@@ -2110,44 +2125,44 @@ http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
 #EXTINF:-1  tvg-name="fighttv" tvg-id="fighttv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fighttv.png" group-title="SPORTS",FIGHT TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="spotv" tvg-id="spotv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/spotv.png" group-title="SPORTS",SPOTV (MNCNOW)
 
 https://legacy-global-cdn.visionplus.id/live/eds/SPOTV-HD/sa_dash/SPOTV-HD.mpd
 https://legacy-global-cdn.visionplus.id/live/eds/SCM/sa_dash/SCM.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="spotv2" tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/spotv2.png" group-title="SPORTS",SPOTV 2 (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/SPOTV2-HD/sa_dash/SPOTV2-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="mncsports" tvg-id="mncsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mncsports.png" group-title="SPORTS",MNCSPORTS (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MNCSports-HD/sa_dash/MNCSports-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="mncsports2" tvg-id="mncsports2" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mncsports2.png" group-title="SPORTS",MNCSPORTS 2 (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MNCSports2-HD/sa_dash/MNCSports2-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="mncsports3" tvg-id="mncsports3" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mncsports.png" group-title="SPORTS",MNCSPORTS 3 (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/MNCSports3-HD/sa_dash/MNCSports3-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="mncsports4" tvg-id="mncsports4" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/mncsports.png" group-title="SPORTS",MNCSPORTS 4 (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/Sportstar4/sa_dash/Sportstar4.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="soccerchannel" tvg-id="soccerchannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/soccerchannel.png" group-title="SPORTS",SOCCER CHANNEL (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/soccerchannel-test/sa_dash/soccerchannel-test.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="fightsports" tvg-id="fightsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fightsports.png" group-title="SPORTS",FIGHT SPORTS (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/FightSports/sa_dash/FightSports.mpd
@@ -2156,16 +2171,16 @@ https://legacy-global-cdn.visionplus.id/live/eds/FightSports/sa_dash/FightSports
 #EXTINF:-1  tvg-name="fightsports" tvg-id="fightsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fightsports.png" group-title="SPORTS",FIGHT SPORTS (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="beinsports1" tvg-id="beinsports1" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="SPORTS",BEINSPORTS 1 (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/BEIN01/sa_dash/BEIN01.mpd 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36#EXTINF:-1  tvg-name="beinsports1" tvg-id="beinsports1" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="SPORTS",BEINSPORTS 2 (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/BEIN02/sa_dash/BEIN02.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1  tvg-name="beinsports1" tvg-id="beinsports1" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="SPORTS",BEINSPORTS 3 (MNCNOW)
 https://legacy-global-cdn.visionplus.id/live/eds/BEIN03/sa_dash/BEIN03.mpd 
