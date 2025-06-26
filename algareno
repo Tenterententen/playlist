@@ -99,7 +99,7 @@ https://streaming.indihometv.com/atm/DASH/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="beinsports" tvg-id="beinsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/beinsports.png" group-title="INDIHOME",BEINSPORTS 3
-hhttps://streaming.indihometv.com/atm/DASH/beib2/manifest.mpd 
+https://streaming.indihometv.com/atm/DASH/beib2/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -107,7 +107,7 @@ hhttps://streaming.indihometv.com/atm/DASH/beib2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1  tvg-name="nba" tvg-id="nba" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/nba.png" group-title="INDIHOME",NBA TV
-https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd 
+https://streaming.indihometv.com/atm/DASH//nba/manifest.mpd 
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
