@@ -2125,7 +2125,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1  tvg-name="outside" tvg-id="outside" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/outside.png" group-title="SPORTS",OUTSIDE
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -2228,7 +2228,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1  tvg-name="edgesport" tvg-id="edgesport" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/edgesport.png" group-title="SPORTS", EDGE SPORT
-http://edgesport-samsungus.amagi.tv/playlist.m3u8
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
 #EXTINF:-1  tvg-name="horizonsports" tvg-id="horizonsports" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/horizonsports.png" group-title="SPORTS", HORIZON SPORTS (DENS)
