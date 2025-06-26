@@ -1314,8 +1314,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1  tvg-name="huntchannel" tvg-id="huntchannel" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/huntchannel.png" group-title="KNOWLEDGES",HUNT CHANNEL
-https://a-cdn.klowdtv.com/live2/huntchannel_720p/playlist.m3u8
+#EXTINF:-1  tvg-name="fh" tvg-id="fh" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/fh.png" group-title="KNOWLEDGES",THE FISHING & HUNTING CHANNEL
+http://78.130.250.2:8023/play/a032/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2082,7 +2082,7 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-name="peopleareawesome" tvg-id="peopleareawesome" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/peopleareawesome.png" group-title="SPORTS",PEOPLE ARE AWESOME 
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
 #EXTINF:-1  tvg-name="densplay" tvg-id="densplay" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/densplay.png" group-title="SPORTS",DENS PLAY (DENS)
