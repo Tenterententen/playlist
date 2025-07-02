@@ -1299,24 +1299,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 ###############################################################################
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTINF:-1  tvg-name="bioskopindonesia" tvg-id="bioskopindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/bioskopindonesia.png" group-title="MOVIES",BIOSKOP INDONESIA (TRANSVISION)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTINF:-1  tvg-name="citrabioskop" tvg-id="citrabioskop" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citrabioskop.png" group-title="MOVIES",CITRA BIOSKOP (FIRSTMEDIA)
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1453,6 +1435,24 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #EXTINF:-1  tvg-name="warnertv" tvg-id="warnertv" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/wbtv.png" group-title="MOVIES",WARNER TV (TRANSVISION)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#EXTINF:-1  tvg-name="bioskopindonesia" tvg-id="bioskopindonesia" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/bioskopindonesia.png" group-title="MOVIES",BIOSKOP INDONESIA (TRANSVISION)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTINF:-1  tvg-name="citrabioskop" tvg-id="citrabioskop" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/citrabioskop.png" group-title="MOVIES",CITRA BIOSKOP (FIRSTMEDIA)
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
@@ -1472,40 +1472,53 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTINF:-1  tvg-name="galaxypremium" tvg-id="galaxypremium" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxypremium.png" group-title="MOVIES",GALAXY PREMIUM (MNCNOW)
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTINF:-1  tvg-name="galaxy" tvg-id="galaxy" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/galaxy.png" group-title="MOVIES",GALAXY (MNCNOW)
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTINF:-1  tvg-name="imc" tvg-id="imc" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/imc.png" group-title="MOVIES",INDONESIA MOVIE CHANNEL (MNCNOW)
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemachi" tvg-id="cinemachi" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachi.png" group-title="MOVIES",ORIGINALS (MNCNOW)
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=40
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemachiaction" tvg-id="cinemachiaction" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachiaction.png" group-title="MOVIES",CINEEDGE (MNCNOW)
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=40
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=39
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemachimax" tvg-id="cinemachimax" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachimax.png" group-title="MOVIES",SUPERRIX (MNCNOW)
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=39
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=38
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTINF:-1  tvg-name="cinemachixtra" tvg-id="cinemachixtra" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachixtra.png" group-title="MOVIES",UNIQUEST (MNCNOW)
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=38
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1896,13 +1909,11 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=37
-#EXTINF:-1  tvg-name="cinemachikids" tvg-id="cinemachikids" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachikids.png" group-title="KIDS",CINEMACHI KIDS (MNCNOW)
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=37
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTINF:-1  tvg-name="cinemachikids" tvg-id="cinemachikids" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/cinemachikids.png" group-title="KIDS",BUDDY STAR (MNCNOW)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
