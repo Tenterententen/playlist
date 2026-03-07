@@ -165,6 +165,22 @@ https://vidio.xxx3x.workers.dev/7432.mpd?exp=1772910594&sign=f2b5d550d41d2112d95
 #KODIPROP:inputstream.adaptive.license_key=https://vidio.xxx3x.workers.dev/7464.drm?exp=1772910594&sign=7b73b2460925c3cd1da88bafee3d93416894e45a937d3a7079f6b839d8e78c8c
 https://vidio.xxx3x.workers.dev/7464.mpd?exp=1772910594&sign=37be2c2ca51b702f8fc21ef39801e27e5840a6373ca2ce157fabb265f276912b
 
+#EXTINF:-1  tvg-name="tvn" tvg-id="tvn" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvn.png" group-title="VIDIO",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidio.xxx3x.workers.dev/6362.drm?exp=1772913788&sign=5b3d225d965a1b5cd81f9fd9f86fcf9e28daf08680a7469fdf49972ebda98b6b
+https://vidio.xxx3x.workers.dev/6362.mpd?exp=1772913788&sign=a54253462eef1c9430226907ddae789afa465a82c6590d1243966cea11aa367f
+
+#EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/rockaction.png" group-title="VIDIO",ROCK ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidio.xxx3x.workers.dev/8121.drm?exp=1772913788&sign=f066e8be922e148cebab4d24499db795543ddcf81cb2e6dd41a30b8492db45ed
+https://vidio.xxx3x.workers.dev/8121.mpd?exp=1772913788&sign=a8f4c10d3ef9d83e1bf7e6eef16fd39d3eb834ef6a76433f7d645460aebfaeec
+
 ###############################################################################
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
