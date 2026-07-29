@@ -15,6 +15,10 @@ x-tvg-url=" "
 #EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvri.png" group-title="NATIONWIDE",TVRI (FIRSTMEDIA)
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
+#EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/Tenterententen/logo/main/tvri.png" group-title="NATIONWIDE",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
